@@ -1,6 +1,6 @@
 # BsktBallStatsPage-DataCleaning
 
-##Description
+## Description
 * This the code I wrote in order to clean the CSV file that I downloaded from Kaggle.
 * Using the Pandas libarary, I removed unwanted columns and rows, and I replaced all NULL values in the dataset.
 
